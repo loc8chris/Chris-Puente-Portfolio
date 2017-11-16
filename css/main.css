@@ -405,7 +405,8 @@ a:focus {
 	transform: scale(1.8);
 }
 /*SOCIAL ICON COLORS*/
-.social-icons a.facebook:hover{color:#5168B9}.social-icons a.twitter:hover{color:#6EC3F5}.social-icons a.google-plus:hover{color:#F65E4F}.social-icons a.rss:hover{color:#FF893B}.social-icons a.dribbble:hover{color:#EB4E8B}.social-icons a.flickr:hover{color:#0063db}.social-icons a.github:hover{color:#4183c4}.social-icons a.instagram:hover{color:#3f729b}.social-icons a.linkedin:hover{color:#007fb1}.social-icons a.pinterest:hover{color:#cb2027}.social-icons a.dropbox:hover{color:#3d9ae8}.social-icons a.stumbleupon:hover{color:#eb4924}.social-icons a.tumblr:hover{color:#2c4762}.social-icons a.vimeo:hover{color:#4bf}.social-icons a.youtube:hover{color:#cd332d}.social-icons a.skype:hover{color:#00aff0}
+.social-icons a.soundcloud:hover{color:#ff9933}.social-icons a.sign-in:hover{color:#2eb82e}.social-icons a.facebook:hover{color:#5168B9}.social-icons a.twitter:hover{color:#6EC3F5}.social-icons a.google-plus:hover{color:#F65E4F}.social-icons a.rss:hover{color:#FF893B}.social-icons a.dribbble:hover{color:#EB4E8B}.social-icons a.flickr:hover{color:#0063db}.social-icons a.github:hover{color:#9966ff}.social-icons a.instagram:hover{color:#ff0066}
+.social-icons a.linkedin:hover{color:#007fb1}.social-icons a.pinterest:hover{color:#cb2027}.social-icons a.dropbox:hover{color:#3d9ae8}.social-icons a.stumbleupon:hover{color:#eb4924}.social-icons a.tumblr:hover{color:#2c4762}.social-icons a.vimeo:hover{color:#4bf}.social-icons a.youtube:hover{color:#cd332d}.social-icons a.skype:hover{color:#00aff0}
 
 
 /*SKILLBAR MODULE*/
